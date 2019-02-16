@@ -1,5 +1,6 @@
 #Ignore datasets
 test/
 train/
+#Ignore predictions
 preds/
 csvs/
