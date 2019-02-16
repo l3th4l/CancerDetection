@@ -1,0 +1,6 @@
+model_checkpoint_path: "pred-0__500.ckpt"
+all_model_checkpoint_paths: "pred-0__100.ckpt"
+all_model_checkpoint_paths: "pred-0__200.ckpt"
+all_model_checkpoint_paths: "pred-0__300.ckpt"
+all_model_checkpoint_paths: "pred-0__400.ckpt"
+all_model_checkpoint_paths: "pred-0__500.ckpt"

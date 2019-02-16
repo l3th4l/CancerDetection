@@ -1,0 +1,5 @@
+#Ignore datasets
+test/
+train/
+preds/
+csvs/
